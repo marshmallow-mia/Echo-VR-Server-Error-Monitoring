@@ -1,5 +1,5 @@
 ###################################################################
-#Code by marcel_One_
+#Code by marshmallow_mia
 #Checks for errors and restarts the server. Also checks for the right amount of servers running.
 #Do what you want with it, but I dont take any responsibility
 #Please contact me if you found bugs or want an added feature
@@ -298,3 +298,4 @@ sleep $delay_for_process_checking
 #Recreated the install_winget as Microsoft broke it!
 #Implemented new errors
 #added the possibility to add the amount of needed server instances behind the script like "pswh Echo-VR-Server-Error-Monitoring.ps1 5"
+
